@@ -1,0 +1,2 @@
+This is Day 2 of ML Project by Nithish.
+Learning Python File Handling.
